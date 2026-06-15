@@ -6,14 +6,6 @@
 <body>
 
 
-
-
-<p align="center">
-  <img src="Mobile Sales Data Dashboard.png" width="700">
-</p>
-
-
-
 <p align="justify">
 
 # Power BI Dashboard Projects
