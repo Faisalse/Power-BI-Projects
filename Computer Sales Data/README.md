@@ -14,13 +14,13 @@
 
 
 
-<p align="justify">
+The dashboard shows sales performance from <b>2020–2022</b>, with <b>99M total sales</b>, <b>76M total cost</b>, and <b>23M profit from 5.095K orders</b> and <b>56 customers</b>.
 
-I created this <b>Mobile Sales Dashboard</b> using Power BI to analyze sales performance and customer behavior.
+The highest quantity sold is for <b>Monitors (23M)</b>, followed by <b>CPU (19M</b>) and <b>Graphic Card/HDD (13M each)</b>.
 
-The dashboard provides a clear overview of key business metrics, including <b>total sales, total quantity sold, transactions, average price, sales by city, monthly trends, customer ratings, payment methods, and model-wise performance</b>. It also helps identify which months, cities, and payment methods contribute most to overall sales.
+Brand-wise, Intel has the highest sales contribution with <b>19M</b>, followed by <b>Samsung (16M)</b> and <b>Dell (14M)</b>.
 
-This project helped me improve my skills in data visualization, dashboard design, and business insights generation using Power BI.
+State-wise profit is visualized across India, showing that profit is distributed across multiple regions with different sales intensities.
 
 </p>
 </body>
