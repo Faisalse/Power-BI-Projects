@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="Dashboardfig.png" width="700">
+  <img src="Dashboardfig.png" width="900">
 </p>
 
 
