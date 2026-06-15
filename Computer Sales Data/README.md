@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="Mobile Sales Data Dashboard.png" width="700">
+  <img src="Dashboardfig.png" width="700">
 </p>
 
 
