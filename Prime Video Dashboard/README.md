@@ -9,7 +9,7 @@
 
 <h2>Amazon Prime Video Analytics Dashboard</h2>
 <p align="center">
-  <img src="Dashboard.png" width="700">
+  <img src="Dashboard.png" width="800">
 </p>
 
 
